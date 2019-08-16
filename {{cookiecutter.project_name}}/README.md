@@ -2,7 +2,6 @@
 
 **This is an example of how to create a minimal pipeline for SAM based Serverless Apps**
 
-![Pipeline Sample Image](pipeline-sample.png)
 
 ## Requirements
 
